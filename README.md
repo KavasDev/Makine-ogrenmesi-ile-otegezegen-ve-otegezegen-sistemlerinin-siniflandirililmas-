@@ -1,4 +1,1 @@
-# Makine-ogrenmesi-ile-otegezegen-ve-otegezegen-sistemlerinin-siniflandirililmas-
-Makine öğrenmesi ile ötegezegen ve ötegezegen sistemlerinin sınıflandırılması
-Kodlar python dili kullanılarak yazılmıştır, rapordaki tüm grafikler python kullanılarak elde edilmemiştir, bazı grafikve tablolar spss uygulaması kullanılarak elde edilmiştir.
-Ömer Yiğit Kavas, Arda Buğra Yüce
+Classification of exoplanets and exoplanet systems with machine learning The codes were written using Python language, not all graphics in the report were obtained using Python, some graphs and tables were obtained using SPSS application. Ömer Yiğit Kavas, Arda Buğra Yüce
